@@ -1,2 +1,3 @@
-# Gaulois_SQL
+# Exercices_SQL
 Exercice Gaulois SQL
+Exercice Pizzeria SQL
